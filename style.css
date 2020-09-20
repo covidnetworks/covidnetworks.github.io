@@ -213,10 +213,6 @@ a:hover, a:active {
         overflow: auto;
         background: transparent;
     }
-
-    .site-navigation ul li a {
-        padding: 0px 0 0px;
-    }
 }
 
 .site-navigation ul li a:hover,
