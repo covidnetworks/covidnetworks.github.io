@@ -1329,7 +1329,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .about-page .page-header {
-    background: url(images/About_Us_Banner.JPG) no-repeat center;
+    background: url(images/about_us-banner.png) no-repeat center;
 }
 
 .about-page .page-header2 {
@@ -1772,7 +1772,7 @@ ul.tabs-nav .tab-nav.active {
 # News
 --------------------------------------------------------------*/
 .news-page .page-header {
-    background: url(images/Media_Page_Banner.JPG) no-repeat center;
+    background: url(images/blog_page_banner.jpg) no-repeat center;
 }
 
 .news-wrap {
