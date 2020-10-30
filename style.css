@@ -1391,6 +1391,13 @@ ul.tabs-nav .tab-nav.active {
     width: 100%;
 }
 
+.about-page .welcome-wrap2 h2 {
+    margin-top: 36px;
+    font-size: 36px;
+    font-weight: 500;
+    color: #fff;
+}
+
 .about-stats {
     padding: 96px 0;
     background: #262626;
