@@ -1344,6 +1344,11 @@ ul.tabs-nav .tab-nav.active {
     padding: 96px 0;
 }
 
+.about-page .welcome-wrap2 {
+    padding: 96px 0;
+    background: #262626;
+}
+
 .about-page .welcome-content .entry-title {
     color: #262626;
 }
@@ -1376,6 +1381,13 @@ ul.tabs-nav .tab-nav.active {
 
 .about-page .welcome-wrap img {
     display: block;
+    text-align: justify;
+    width: 100%;
+}
+
+.about-page .welcome-wrap2 img {
+    display: block;
+    text-align: justify;
     width: 100%;
 }
 
