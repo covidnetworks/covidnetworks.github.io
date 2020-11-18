@@ -871,11 +871,31 @@ ul.tabs-nav .tab-nav.active {
 --------------------------------*/
 .home-page-events {
     padding: 96px 0;
-    background: rgba(21,21,21,.9);
+    background: rgba(255,255,255,.9);
     background-size: cover;
     z-index: 99;
 }
 
+
+.section-heading2 .entry-title {
+    position: relative;
+    padding-bottom: 24px;
+    font-size: 28px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.section-heading2 .entry-title::before {
+    content: '';
+    position: absolute;
+    bottom: 0px
+    left: 0;
+    width: 40px;
+    height: 4px;
+    border-radius: 2px;
+    background: #ff5a00;
+    
+}
 
 
 .section-heading .entry-title {
@@ -1349,6 +1369,15 @@ ul.tabs-nav .tab-nav.active {
     background: #262626;
 }
 
+.about-page .welcome-wrap3 {
+    padding: 96px 0;
+}
+
+.about-page .welcome-wrap4 {
+    padding: 96px 0;
+    background: #262626;
+}
+
 .about-page .welcome-content .entry-title {
     color: #262626;
 }
@@ -1379,7 +1408,17 @@ ul.tabs-nav .tab-nav.active {
     color: #fff;
 }
 
+.about-page .welcome-content .entry-content3 {
+    color: #000000;
+}
+
 .about-page .welcome-wrap img {
+    display: block;
+    text-align: justify;
+    width: 100%;
+}
+
+.about-page .welcome-wrap3 img {
     display: block;
     text-align: justify;
     width: 100%;
@@ -1391,12 +1430,37 @@ ul.tabs-nav .tab-nav.active {
     width: 100%;
 }
 
+.about-page .welcome-wrap3 img {
+    display: block;
+    text-align: justify;
+    border-radius: 50%;
+    /*border: 5px solid #ff5a00;*/
+    width: 100%;
+}
+
+.about-page .welcome-wrap4 img {
+    display: block;
+    text-align: justify;
+    border-radius: 50%;
+    /*border: 5px solid #ff5a00;*/
+    width: 100%;
+}
+
 .about-page .welcome-wrap2 h2 {
     margin-top: 36px;
     font-size: 36px;
     font-weight: 500;
     color: #fff;
 }
+
+.about-page .welcome-wrap4 h2 {
+    margin-top: 36px;
+    font-size: 36px;
+    font-weight: 500;
+    color: #fff;
+}
+
+
 
 .about-stats {
     padding: 96px 0;
