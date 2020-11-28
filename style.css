@@ -1340,18 +1340,6 @@ ul.tabs-nav .tab-nav.active {
     border-radius: 2px;
     background: #ff5a00;
 }
-
-.single-page .page-header4 h1::before {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 64px;
-    height: 4px;
-    border-radius: 2px;
-    background: #ff5a00;
-}
-
 .single-page .page-header4 {
     position: relative;
     z-index: 99;
@@ -1390,6 +1378,44 @@ ul.tabs-nav .tab-nav.active {
     background: #ff5a00;
 }
 
+.single-page .page-header5 {
+    position: relative;
+    z-index: 99;
+    padding-top: 100px;
+    padding-bottom: 72px;
+    background-size: cover !important;
+}
+
+.single-page .page-header5::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.7);
+}
+
+.single-page .page-header5 h1 {
+    position: relative;
+    padding-bottom: 24px;
+    font-size: 36px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.single-page .page-header5 h1::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 64px;
+    height: 4px;
+    border-radius: 2px;
+    background: #ff5a00;
+}
+
 
 
 
@@ -1415,6 +1441,10 @@ ul.tabs-nav .tab-nav.active {
 
 .about-page .page-header4 {
     background: url(images/About_Us_Banner.JPG) no-repeat center;
+}
+
+.about-page .page-header5 {
+    background: url(images/Gallery_Banner.jpg) no-repeat center;
 }
 
 .about-page .welcome-wrap {
