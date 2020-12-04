@@ -72,25 +72,33 @@ var simplemaps_usmap_mapdata={
         name: "New Hampshire",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/northeast.html"
       },
       VT: {
         name: "Vermont",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/northeast.html"
       },
       ME: {
         name: "Maine",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/northeast.html"
       },
       RI: {
         name: "Rhode Island",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/northeast.html"
       },
       NY: {
         name: "New York",
@@ -148,7 +156,9 @@ var simplemaps_usmap_mapdata={
         name: "Ohio",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/ohio.html"
       },
       IN: {
         name: "Indiana",
@@ -168,7 +178,9 @@ var simplemaps_usmap_mapdata={
         name: "Connecticut",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/northeast.html"
       },
       WI: {
         name: "Wisconsin",
@@ -194,7 +206,7 @@ var simplemaps_usmap_mapdata={
         inactive: "no",
         color: "#d17024",
         hover_color: "#1d3b22",
-        url: "zz_chapters/massachusets.html"
+        url: "zz_chapters/northeast.html"
       },
       TN: {
         name: "Tennessee",
@@ -218,7 +230,9 @@ var simplemaps_usmap_mapdata={
         name: "Georgia",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/georgia.html"
       },
       SC: {
         name: "South Carolina",
@@ -242,7 +256,9 @@ var simplemaps_usmap_mapdata={
         name: "Louisiana",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/louisiana.html"
       },
       MS: {
         name: "Mississippi",
@@ -254,7 +270,9 @@ var simplemaps_usmap_mapdata={
         name: "Iowa",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/iowa.html"
       },
       MN: {
         name: "Minnesota",
@@ -282,7 +300,9 @@ var simplemaps_usmap_mapdata={
         name: "New Mexico",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/new_mexico.html"
       },
       KS: {
         name: "Kansas",
@@ -494,12 +514,12 @@ var simplemaps_usmap_mapdata={
         name: "Albania"
       },
       AE: {
-        name: "United Arab Emirates",
+        name: "Dubai",
         hide: "no",
         inactive: "no",
         color: "#d17024",
         hover_color: "#1d3b22",
-        url: "zz_chapters/united_arab_emirates.html"
+        url: "zz_chapters/dubai.html"
       },
       AR: {
         name: "Argentina"
@@ -576,10 +596,20 @@ var simplemaps_usmap_mapdata={
         name: "Switzerland"
       },
       CL: {
-        name: "Chile"
+        name: "Chile",
+        hide: "no",
+        inactive: "no",
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/chile.html"
       },
       CN: {
-        name: "China"
+        name: "China",
+        hide: "no",
+        inactive: "no",
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/china.html"
       },
       CI: {
         name: "Côte d'Ivoire"
@@ -606,7 +636,12 @@ var simplemaps_usmap_mapdata={
         name: "Czech Republic"
       },
       DE: {
-        name: "Germany"
+        name: "Germany",
+        hide: "no",
+        inactive: "no",
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/germany.html"
       },
       DJ: {
         name: "Djibouti"
@@ -745,7 +780,12 @@ var simplemaps_usmap_mapdata={
         name: "Cambodia"
       },
       KR: {
-        name: "Republic of Korea"
+        name: "South Korea",
+        hide: "no",
+        inactive: "no",
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/south_korea.html"
       },
       XK: {
         name: "Kosovo"
@@ -870,7 +910,7 @@ var simplemaps_usmap_mapdata={
         name: "Poland"
       },
       KP: {
-        name: "Dem. Rep. Korea"
+        name: "North Korea"
       },
       PT: {
         name: "Portugal"
@@ -897,7 +937,12 @@ var simplemaps_usmap_mapdata={
         name: "Western Sahara"
       },
       SA: {
-        name: "Saudi Arabia"
+        name: "Dubai",
+        hide: "no",
+        inactive: "no",
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/dubai.html"  
       },
       SD: {
         name: "Sudan"
@@ -938,7 +983,12 @@ var simplemaps_usmap_mapdata={
         name: "Swaziland"
       },
       SY: {
-        name: "Syria"
+        name: "Syria",
+        hide: "no",
+        inactive: "no",
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/syria.html"
       },
       TD: {
         name: "Chad"
@@ -970,7 +1020,12 @@ var simplemaps_usmap_mapdata={
         url: "zz_chapters/turkey.html"
       },
       TW: {
-        name: "Taiwan"
+        name: "Taiwan",
+        hide: "no",
+        inactive: "no",
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/taiwan.html"
       },
       TZ: {
         name: "Tanzania"
@@ -1020,10 +1075,20 @@ var simplemaps_usmap_mapdata={
         name: "Somalia"
       },
       GF: {
-        name: "France"
+        name: "France",
+        hide: "no",
+        inactive: "no",
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/france.html"
       },
       FR: {
-        name: "France"
+        name: "France",
+        hide: "no",
+        inactive: "no",
+        color: "#d17024",
+        hover_color: "#1d3b22",
+        url: "zz_chapters/france.html"
       },
       ES: {
         name: "Spain"
