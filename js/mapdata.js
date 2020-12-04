@@ -358,7 +358,7 @@ var simplemaps_usmap_mapdata={
         inactive: "no",
         color: "#d17024",
         hover_color: "#1d3b22",
-        url: "zz_chapters/Arizona.html"
+        url: "zz_chapters/arizona.html"
       },
       NV: {
         name: "Nevada",
@@ -1075,12 +1075,7 @@ var simplemaps_usmap_mapdata={
         name: "Somalia"
       },
       GF: {
-        name: "France",
-        hide: "no",
-        inactive: "no",
-        color: "#d17024",
-        hover_color: "#1d3b22",
-        url: "zz_chapters/france.html"
+        name: "French Guiana"
       },
       FR: {
         name: "France",
