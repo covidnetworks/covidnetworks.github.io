@@ -227,12 +227,7 @@ var simplemaps_usmap_mapdata={
         hover_color: "#1d3b22"
       },
       GA: {
-        name: "Georgia",
-        hide: "no",
-        inactive: "no",
-        color: "#d17024",
-        hover_color: "#1d3b22",
-        url: "zz_chapters/georgia.html"
+        name: "Georgia"
       },
       SC: {
         name: "South Carolina",
@@ -267,12 +262,7 @@ var simplemaps_usmap_mapdata={
         hover_color: "#1d3b22"
       },
       IA: {
-        name: "Iowa",
-        hide: "no",
-        inactive: "no",
-        color: "#d17024",
-        hover_color: "#1d3b22",
-        url: "zz_chapters/iowa.html"
+        name: "Iowa"
       },
       MN: {
         name: "Minnesota",
@@ -937,12 +927,12 @@ var simplemaps_usmap_mapdata={
         name: "Western Sahara"
       },
       SA: {
-        name: "Dubai",
+        name: "Saudi Arabia",
         hide: "no",
         inactive: "no",
         color: "#d17024",
         hover_color: "#1d3b22",
-        url: "zz_chapters/dubai.html"  
+        url: "zz_chapters/saudi.html"  
       },
       SD: {
         name: "Sudan"
