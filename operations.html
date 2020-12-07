@@ -26,6 +26,11 @@
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image" href="favicon.ico" type="image/x-icon"/>
     <link rel="shortcut icon" href="favicon.ico" type="ico ">
+    
+    <!-- MAPS -->
+    <script src="js/mapdata.js"></script>
+    <script src="js/usmap.js"></script>
+    <script src="js/worldmap.js"></script>
 </head>
 <body class="single-page about-page">
 <header class="site-header">
@@ -65,7 +70,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h1>Operations</h1>
+                    <h1>Chapters & Partnerships Information!</h1>
                 </div><!-- .col -->
             </div><!-- .row -->
         </div><!-- .container -->
@@ -74,29 +79,60 @@
     <div class="welcome-wrap">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-lg-6 order-2 order-lg-1">
-                    <div class="welcome-content">
-                        <header class="entry-header">
-                            <h2 class="entry-title">Start A New Chapter</h2>
-                        </header><!-- .entry-header -->
+                <div class="col-12 col-lg-12 order-2 order-lg-1">
+                    <header class="entry-header">
+                        <h2 class="entry-title"> What are chapters?</h2>
+                    </header>
+                    <div class="entry-content mt-5">
+                        <p>
+                            We have “chapters” of COVID Networks, which are fairly autonomous branches that operate like "subsidiaries" of our main organization.
+                            Being part of a chapter is a wonderful experience, as you can directly give back to your community by focusing on your home state or country.
+                            Each chapter has a president with a dedicated officer and volunteer team.
+                        </p>
+                    </div>
+                    <br/>
+                    <br/>
+                </div>
+                <div class="col-12 col-lg-4 order-2 order-lg-1">
+                    <header class="entry-header">
+                        <h2 class="entry-title"> Our U.S. Chapters:</h2>
+                        <h3> Click on a state to learn more</h3>
+                        <p> If your home state is blue, there is no chapter there currently: please apply to start a chapter in your area! <br/><br/>If it is orange, don't be disheartened! You can apply to be on the management team in your chapter, helping with outreach, volunteer affairs, or media presence.
+                            <br/><br/>We would love to have you on our team, and as a 501(c)(3) certified, PVSA-certified organization,
+                            we can provide official volunteer hours, whether you need community service hours for school/college or just want to work towards the prestigous <a href="https://www.presidentialserviceawards.gov/">PVSA Gold Award</a>!
+                        </p>
+                    </header>
+                </div>
+                <div class="col-12 col-lg-8 order-2 order-lg-1">
+                    <div id="map_usa"></div>
+                    <img src="images/white.png" style="position: absolute; left:60%; top:60%;width:40%;height:10%;z-index: 1;">
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-12 order-2 order-lg-1">
+                </div>
+                <div class="col-12 col-lg-4 order-2 order-lg-1">
+                    <header class="entry-header">
+                        <h2 class="entry-title"> Our Foreign Chapters:</h2> <br/>
+                        <h3> Click on a continent, and then select your country to visit its page!</h3>
+                        <p> If your home country is blue, there is no chapter there currently: please apply to start a chapter in your area! <br/><br/>If it is orange, don't be disheartened! Foreign chapters have the potential to grow huge because of the size of the country: apply to the management team for that chapter!
+                        </p>
+                    </header>
+                </div>
+                <div class="col-12 col-lg-8 order-2 order-lg-1">
+                    <div id="map_world"></div>
+                    <img src="images/white.png" style="position: absolute; left:60%; top:55%;width:40%;height:10%;z-index: 1;">
+                </div>
+            </div>
+        </div>
+        
+        <br/>
+        <br/>
+        <br/>
 
-                        <div class="entry-content mt-5">
-                            <p>We have “chapters” of COVID Networks, which are fairly autonomous branches of our organization. If you would like to expand and bring COVID Networks to your area, then we encourage you to fill out this form and start a COVID Networks chapter in your region. By forming a new chapter, you will be responsible for the day to day operations of our organization in your area which includes, but is not limited to, communicating with senior centers, finding new volunteers, and branching out. This is also a great way to gain leadership and teamwork skills.</p>
-                        </div><!-- .entry-content -->
-                        <div class="entry-footer mt-5">
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIkHjsHYPXlWVvcS4s4XHlTlvAb-Xc2-aoa1SNXVbnZm0r4g/viewform?usp=sf_link
-                            " class="btn gradient-bg mr-2">Interested In Starting a New Chapter?</a>
-                        </div><!-- .entry-footer -->
-                    </div><!-- .welcome-content -->
-                </div><!-- .col -->
-
-                <div class="col-12 col-lg-6 order-1 order-lg-2">
-                    <img src="images/startnewchapter.jpg" alt="welcome">
-                </div><!-- .col -->
-            </div><!-- .row -->
-        </div><!-- .container -->
-    </div><!-- .home-page-icon-boxes -->
-    
     <div class="welcome-wrap2">
         <div class="container">
             <div class="row">
@@ -121,32 +157,6 @@
 
                 <div class="col-12 col-lg-6 order-1 order-lg-2">
                     <img src="images/agreement.png" alt="welcome">
-                </div><!-- .col -->
-            </div><!-- .row -->
-        </div><!-- .container -->
-    </div><!-- .home-page-icon-boxes -->
-    
-    <div class="welcome-wrap">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-lg-6 order-2 order-lg-1">
-                    <div class="welcome-content">
-                        <header class="entry-header">
-                            <h2 class="entry-title">Outreach Officers</h2>
-                        </header><!-- .entry-header -->
-
-                        <div class="entry-content mt-5">
-                            <p>If you would like to gain leadership experience and strengthen your communication skills, we encourage you to become an outreach officer for COVID Networks! As an outreach officer, your main job will be to contact senior centers and find more to partner with us. You will play a vital role in helping the organization grow. If this is something you would like to do, fill out this form.</p>
-                        </div><!-- .entry-content -->
-                        <div class="entry-footer mt-5">
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBocaArkTfCE8c7XCFgaTpVRFntcuJdhjGGjfjgdEoo7sSBw/viewform?usp=sf_link
-                            " class="btn gradient-bg mr-2">Interested In Becoming an Outreach Officer?</a>
-                        </div><!-- .entry-footer -->
-                    </div><!-- .welcome-content -->
-                </div><!-- .col -->
-
-                <div class="col-12 col-lg-6 order-1 order-lg-2">
-                    <img src="images/outreachofficer.jpg" alt="welcome">
                 </div><!-- .col -->
             </div><!-- .row -->
         </div><!-- .container -->
