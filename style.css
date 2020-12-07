@@ -843,6 +843,25 @@ ul.tabs-nav .tab-nav.active {
     background: #ff5a00;
 }
 
+.welcome-content .entry-title4 {
+    position: relative;
+    padding-bottom: 24px;
+    font-size: 36px;
+    font-weight: 600;
+    color: #262626;
+}
+
+.welcome-content .entry-title4::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 240px;
+    height: 4px;
+    border-radius: 2px;
+    background: #ff5a00;
+}
+
 .welcome-content .entry-content {
     font-size: 14px;
     line-height: 2;
@@ -1465,6 +1484,15 @@ ul.tabs-nav .tab-nav.active {
     background: #262626;
 }
 
+.about-page .welcome-wrap5 {
+    padding: 10px 0;
+}
+
+.about-page .welcome-wrap6 {
+    padding-top: 96px;
+    padding-bottom: 30px;
+}
+
 .about-page .welcome-content .entry-title {
     color: #262626;
 }
@@ -1533,6 +1561,18 @@ ul.tabs-nav .tab-nav.active {
     width: 100%;
 }
 
+.about-page .welcome-wrap5 img {
+    display: block;
+    text-align: justify;
+    width: 100%;
+}
+
+.about-page .welcome-wrap6 img {
+    display: block;
+    text-align: justify;
+    width: 100%;
+}
+
 .about-page .welcome-wrap2 h2 {
     margin-top: 36px;
     font-size: 36px;
@@ -1546,6 +1586,7 @@ ul.tabs-nav .tab-nav.active {
     font-weight: 500;
     color: #fff;
 }
+
 
 
 

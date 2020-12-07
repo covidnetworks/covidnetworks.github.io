@@ -12,8 +12,8 @@ var simplemaps_usmap_mapdata={
       
       //State defaults
       state_description: "Click for more info!",
-      state_color: "#77bcff",
-      state_hover_color: "#3c4c3b",
+      state_color: "#88A4BC",
+      state_hover_color: "#3B729F",
       state_url: "zz_chapters/no_chapter_yet.html",
       all_states_inactive: "no",
       
@@ -51,21 +51,21 @@ var simplemaps_usmap_mapdata={
         name: "Hawaii",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "test_url.com"
       },
       AK: {
         name: "Alaska",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       FL: {
         name: "Florida",
         inactive: "no",
         hide: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/florida.html",
       },
       NH: {
@@ -73,7 +73,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/northeast.html"
       },
       VT: {
@@ -81,7 +81,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/northeast.html"
       },
       ME: {
@@ -89,7 +89,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/northeast.html"
       },
       RI: {
@@ -97,7 +97,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/northeast.html"
       },
       NY: {
@@ -105,7 +105,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/ny.html"
       },
       PA: {
@@ -113,7 +113,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/pennsylvania.html"
       },
       NJ: {
@@ -121,27 +121,31 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/new_jersey.html"
       },
       DE: {
         name: "Delaware",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        color: "#d17024",
+        hover_color: "#3B729F",
+        url: "zz_chapters/northeast.html"
       },
       MD: {
         name: "Maryland",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        color: "#d17024",
+        hover_color: "#3B729F",
+        url: "zz_chapters/northeast.html"
       },
       VA: {
         name: "Virginia",
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/virginia.html"
       },
       WV: {
@@ -149,7 +153,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/virginia.html"
       },
       OH: {
@@ -157,21 +161,21 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/ohio.html"
       },
       IN: {
         name: "Indiana",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       IL: {
         name: "Illinois",
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/illinois.html"
       },
       CT: {
@@ -179,52 +183,54 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/northeast.html"
       },
       WI: {
         name: "Wisconsin",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       NC: {
         name: "North Carolina",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       DC: {
         name: "District of Columbia",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        color: "#d17024",
+        hover_color: "#3B729F",
+        url: "zz_chapters/northeast.html"
       },
       MA: {
         name: "Massachusetts",
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/northeast.html"
       },
       TN: {
         name: "Tennessee",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       AR: {
         name: "Arkansas",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       MO: {
         name: "Missouri",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       GA: {
         name: "Georgia"
@@ -233,33 +239,33 @@ var simplemaps_usmap_mapdata={
         name: "South Carolina",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       KY: {
         name: "Kentucky",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       AL: {
         name: "Alabama",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       LA: {
         name: "Louisiana",
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/louisiana.html"
       },
       MS: {
         name: "Mississippi",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       IA: {
         name: "Iowa"
@@ -269,21 +275,21 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/minnesota.html"
       },
       OK: {
         name: "Oklahoma",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       TX: {
         name: "Texas",
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/texas.html"
       },
       NM: {
@@ -291,83 +297,83 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/new_mexico.html"
       },
       KS: {
         name: "Kansas",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       NE: {
         name: "Nebraska",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       SD: {
         name: "South Dakota",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       ND: {
         name: "North Dakota",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       WY: {
         name: "Wyoming",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       MT: {
         name: "Montana",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       CO: {
         name: "Colorado",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       UT: {
         name: "Utah",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       AZ: {
         name: "Arizona",
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/arizona.html"
       },
       NV: {
         name: "Nevada",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       OR: {
         name: "Oregon",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       WA: {
         name: "Washington",
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/washington.html"
       },
       CA: {
@@ -375,7 +381,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/california.html"
       },
       MI: {
@@ -383,38 +389,38 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/michigan.html"
       },
       ID: {
         name: "Idaho",
         hide: "no",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       GU: {
         name: "Guam",
         hide: "yes",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       VI: {
         name: "Virgin Islands",
         hide: "yes",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       PR: {
         name: "Puerto Rico",
         hide: "yes",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       },
       MP: {
         name: "Northern Mariana Islands",
         hide: "yes",
         inactive: "no",
-        hover_color: "#1d3b22"
+        hover_color: "#3B729F"
       }
     },
     locations: {},
@@ -508,7 +514,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/dubai.html"
       },
       AR: {
@@ -579,7 +585,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/canada.html"
       },
       CH: {
@@ -590,7 +596,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/chile.html"
       },
       CN: {
@@ -598,7 +604,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/china.html"
       },
       CI: {
@@ -630,7 +636,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/germany.html"
       },
       DJ: {
@@ -653,7 +659,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/egypt.html"
       },
       ER: {
@@ -727,7 +733,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/india.html"
       },
       IE: {
@@ -774,7 +780,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/south_korea.html"
       },
       XK: {
@@ -881,7 +887,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/pakistan.html"
       },
       PA: {
@@ -931,7 +937,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/saudi.html"  
       },
       SD: {
@@ -966,7 +972,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/sweden.html"
       },
       SZ: {
@@ -977,7 +983,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/syria.html"
       },
       TD: {
@@ -1006,7 +1012,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/turkey.html"
       },
       TW: {
@@ -1014,7 +1020,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/taiwan.html"
       },
       TZ: {
@@ -1034,7 +1040,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "operations.html"
       },
       UZ: {
@@ -1072,7 +1078,7 @@ var simplemaps_usmap_mapdata={
         hide: "no",
         inactive: "no",
         color: "#d17024",
-        hover_color: "#1d3b22",
+        hover_color: "#3B729F",
         url: "zz_chapters/france.html"
       },
       ES: {
