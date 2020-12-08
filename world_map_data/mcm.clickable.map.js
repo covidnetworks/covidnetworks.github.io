@@ -5787,7 +5787,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      "glow": true,
 			      "tooltip": {
 			        "active": true,
-			        "text": "Israel"
+			        "text": "Palestine/Israel"
 			      },
 			      "url": {
 			        "openinnew": true,
