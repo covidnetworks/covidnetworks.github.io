@@ -241,7 +241,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 		                "text": "ME"
 		            },
 		            "url": {
-		                "text": "zz_chapters/no_chapter_yet.html",
+		                "text": "zz_chapters/northeast.html",
 		                "openinnew": true
 		            },
 		            "label": {
