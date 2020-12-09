@@ -1854,7 +1854,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      },
 			      "url": {
 			        "openinnew": true,
-			        "text": "zz_chapters/no_chapter_yet.html"
+			        "text": "zz_chapters/taiwan.html"
 			      },
 			      "label": {
 			        "text": "TW",
@@ -2691,7 +2691,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      },
 			      "url": {
 			        "openinnew": true,
-			        "text": "zz_chapters/saudi.html"
+			        "text": "zz_chapters/middle-east.html"
 			      },
 			      "label": {
 			        "text": "SA",
@@ -2780,7 +2780,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      "glow": true,
 			      "tooltip": {
 			        "active": true,
-			        "text": "United Arab Emirates"
+			        "text": "Dubai"
 			      },
 			      "url": {
 			        "openinnew": true,
@@ -3576,7 +3576,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      "name": "DE",
 			      "svg": "m 489.24457,289.29373 0,0 0,0 z m -1.331,-24.4904 0.3993,0 1.4641,0.3993 5.1909,3.0613 5.5902,-2.3958 0.9317,1.8634 0.5324,0.5324 -0.1331,0 0.1331,0.1331 -0.3993,-0.3993 0.5324,1.0648 0.9317,3.8599 0.3993,5.8564 -5.8564,1.5972 -0.2662,2.1296 3.5937,3.1944 -4.1261,3.4606 -6.2557,0.5324 -1.7303,-0.9317 0.3993,0.5324 -1.8634,0.2662 -2.2627,0 1.5972,-4.5254 -4.7916,-1.5972 0.3993,-1.1979 -0.9317,-1.0648 0.6655,-0.5324 -0.9317,-1.5972 2.5289,-4.9247 0.5324,-3.4606 0.2662,-1.7303 4.2592,-0.5324 z",
 			      "active": true,
-			      "fill": "#d17024",
+			      "fill": "#88898c",
 			      "hoveredfill": "#3B729F",
 			      "inactivefill": "#FF0000",
 			      "strokefill": "#333",
@@ -3590,7 +3590,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      },
 			      "url": {
 			        "openinnew": true,
-			        "text": "zz_chapters/germany.html"
+			        "text": "zz_chapters/no_chapter_yet.html"
 			      },
 			      "label": {
 			        "text": "DE",
@@ -4413,7 +4413,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      "name": "JO",
 			      "svg": "m 556.06077,338.80693 0.2662,-0.2662 -0.2662,-0.1331 -0.1331,0 0.1331,-0.2662 0.2662,0 0.1331,-1.1979 0,-2.3958 0.3993,-0.3993 2.662,1.331 5.0578,-3.0613 0.7986,2.5289 0.1331,1.0648 -5.5902,1.7303 2.662,2.7951 -4.9247,3.5937 -2.7951,-0.3993 0.1331,-0.5324 -0.1331,-0.1331 0.5324,-2.3958 z",
 			      "active": true,
-			      "fill": "#88898c",
+			      "fill": "#d17024",
 			      "hoveredfill": "#E84142",
 			      "inactivefill": "#FF0000",
 			      "strokefill": "#333",
@@ -4427,7 +4427,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      },
 			      "url": {
 			        "openinnew": true,
-			        "text": "zz_chapters/no_chapter_yet.html"
+			        "text": "zz_chapters/middle-east.html"
 			      },
 			      "label": {
 			        "text": "JO",
@@ -4458,7 +4458,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      },
 			      "url": {
 			        "openinnew": true,
-			        "text": "zz_chapters/syria.html"
+			        "text": "zz_chapters/middle-east.html"
 			      },
 			      "label": {
 			        "text": "SY",
@@ -5777,7 +5777,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      "name": "IL",
 			      "svg": "m 552.99947,338.27453 1.5972,-2.7951 0.6655,-2.2627 0.9317,0 0.9317,-0.9317 0.1331,1.331 -0.3993,0.5324 -0.3993,0.3993 0,2.3958 -0.5324,0.6655 0.1331,0.5324 -0.1331,0.2662 0.1331,0 -0.1331,0.2662 0.1331,0.1331 -0.6655,1.8634 -0.5324,2.3958 -0.1331,0.2662 0,0 -0.1331,-0.6655 z",
 			      "active": true,
-			      "fill": "#88898c",
+			      "fill": "#d17024",
 			      "hoveredfill": "#E84142",
 			      "inactivefill": "#FF0000",
 			      "strokefill": "#333",
@@ -5791,7 +5791,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      },
 			      "url": {
 			        "openinnew": true,
-			        "text": "zz_chapters/no_chapter_yet.html"
+			        "text": "zz_chapters/middle-east.html"
 			      },
 			      "label": {
 			        "text": "IL",
@@ -6597,7 +6597,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      },
 			      "url": {
 			        "openinnew": true,
-			        "text": "zz_chapters/egypt.html"
+			        "text": "zz_chapters/middle-east.html"
 			      },
 			      "label": {
 			        "text": "EG",

@@ -632,12 +632,7 @@ var simplemaps_usmap_mapdata={
         name: "Czech Republic"
       },
       DE: {
-        name: "Germany",
-        hide: "no",
-        inactive: "no",
-        color: "#d17024",
-        hover_color: "#3B729F",
-        url: "zz_chapters/germany.html"
+        name: "Germany"
       },
       DJ: {
         name: "Djibouti"
@@ -660,7 +655,7 @@ var simplemaps_usmap_mapdata={
         inactive: "no",
         color: "#d17024",
         hover_color: "#3B729F",
-        url: "zz_chapters/egypt.html"
+        url: "zz_chapters/middle-east.html"
       },
       ER: {
         name: "Eritrea"
@@ -749,7 +744,12 @@ var simplemaps_usmap_mapdata={
         name: "Iceland"
       },
       IL: {
-        name: "Israel"
+        name: "Israel",
+        hide: "no",
+        inactive: "no",
+        color: "#d17024",
+        hover_color: "#3B729F",
+        url: "zz_chapters/middle-east.html"
       },
       IT: {
         name: "Italy"
@@ -758,7 +758,12 @@ var simplemaps_usmap_mapdata={
         name: "Jamaica"
       },
       JO: {
-        name: "Jordan"
+        name: "Jordan",
+        hide: "no",
+        inactive: "no",
+        color: "#d17024",
+        hover_color: "#3B729F",
+        url: "zz_chapters/middle-east.html"
       },
       JP: {
         name: "Japan"
@@ -915,7 +920,12 @@ var simplemaps_usmap_mapdata={
         name: "Paraguay"
       },
       PS: {
-        name: "Palestine"
+        name: "Palestine",
+        hide: "no",
+        inactive: "no",
+        color: "#d17024",
+        hover_color: "#3B729F",
+        url: "zz_chapters/middle-east.html"
       },
       QA: {
         name: "Qatar"
@@ -938,7 +948,7 @@ var simplemaps_usmap_mapdata={
         inactive: "no",
         color: "#d17024",
         hover_color: "#3B729F",
-        url: "zz_chapters/saudi.html"  
+        url: "zz_chapters/middle-east.html"  
       },
       SD: {
         name: "Sudan"
@@ -984,7 +994,7 @@ var simplemaps_usmap_mapdata={
         inactive: "no",
         color: "#d17024",
         hover_color: "#3B729F",
-        url: "zz_chapters/syria.html"
+        url: "zz_chapters/middle-east.html"
       },
       TD: {
         name: "Chad"
