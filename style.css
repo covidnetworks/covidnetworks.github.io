@@ -744,6 +744,7 @@ ul.tabs-nav .tab-nav.active {
 --------------------------------*/
 .home-page-icon-boxes {
     padding: 96px 0;
+    background: #262626
 }
 
 /*
@@ -1592,7 +1593,7 @@ ul.tabs-nav .tab-nav.active {
 
 .about-stats {
     padding: 96px 0;
-    background: #262626;
+    background: #fff;
 }
 
 
