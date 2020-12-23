@@ -1376,8 +1376,8 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 		            "name": "CO",
 		            "svg": "m 401.68275,361.63521 4.90324,-86.32496 -113.38856,-12.64396 -12.21382,87.93916 120.69914,11.02976 z",
 		            "active": true,
-		            "fill": "#88898c",
-		            "hoveredfill": "#E84142",
+		            "fill": "#d17024",
+		            "hoveredfill": "#3B729F",
 		            "inactivefill": "#ABABAB",
 		            "strokefill": "#000000",
 		            "strokewidth": 1,
@@ -1389,7 +1389,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 		                "text": "CO"
 		            },
 		            "url": {
-		                "text": "zz_chapters/no_chapter_yet.html",
+		                "text": "zz_chapters/colorado.html",
 		                "openinnew": true
 		            },
 		            "label": {
