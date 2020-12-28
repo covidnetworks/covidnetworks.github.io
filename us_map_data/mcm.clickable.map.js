@@ -1314,8 +1314,8 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 		            "name": "WY",
 		            "svg": "m 382.02701,183.94651 -106.7426,-13.45706 -14.08348,88.45803 113.26461,13.58549 7.56147,-88.58646 z",
 		            "active": true,
-		            "fill": "#88898c",
-		            "hoveredfill": "#E84142",
+		            "fill": "#d17024",
+		            "hoveredfill": "#3B729F",
 		            "inactivefill": "#ABABAB",
 		            "strokefill": "#000000",
 		            "strokewidth": 1,
@@ -1327,7 +1327,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 		                "text": "WY"
 		            },
 		            "url": {
-		                "text": "zz_chapters/no_chapter_yet.html",
+		                "text": "zz_chapters/wyoming.html",
 		                "openinnew": true
 		            },
 		            "label": {
