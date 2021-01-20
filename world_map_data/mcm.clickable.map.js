@@ -3173,8 +3173,8 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      "name": "SV",
 			      "svg": "m 241.94477,386.05743 -2.3958,0.3993 -3.3275,-1.1979 -0.1331,-0.2662 1.9965,-1.4641 4.2592,1.4641 z",
 			      "active": true,
-			      "fill": "#88898c",
-			      "hoveredfill": "#E84142",
+			      "fill": "#d17024",
+			      "hoveredfill": "#3B729F",
 			      "inactivefill": "#FF0000",
 			      "strokefill": "#333",
 			      "strokewidth": 1,
@@ -3187,7 +3187,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      },
 			      "url": {
 			        "openinnew": true,
-			        "text": "zz_chapters/no_chapter_yet.html"
+			        "text": "zz_chapters/El_Salvador.html"
 			      },
 			      "label": {
 			        "text": "SV",
