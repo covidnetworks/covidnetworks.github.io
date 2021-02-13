@@ -3794,8 +3794,8 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      "name": "HN",
 			      "svg": "m 241.01307,380.06793 5.8564,-0.6655 4.1261,0.3993 2.9282,2.1296 -4.2592,0.5324 -6.3888,4.6585 -0.5324,-0.6655 -0.7986,-0.3993 0.3993,-1.0648 -4.2592,-1.4641 0.5324,-1.7303 z",
 			      "active": true,
-			      "fill": "#88898c",
-			      "hoveredfill": "#E84142",
+			      "fill": "#d17024",
+			      "hoveredfill": "#3B729F",
 			      "inactivefill": "#FF0000",
 			      "strokefill": "#333",
 			      "strokewidth": 1,
@@ -3808,7 +3808,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      },
 			      "url": {
 			        "openinnew": true,
-			        "text": "zz_chapters/no_chapter_yet.html"
+			        "text": "zz_chapters/honduras.html"
 			      },
 			      "label": {
 			        "text": "HN",
@@ -4352,8 +4352,8 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      "name": "GT",
 			      "svg": "m 239.14967,379.66863 0.7986,0.3993 1.0648,0 -2.3958,1.7303 -0.5324,1.7303 -1.9965,1.4641 0.1331,0.2662 -3.1944,-0.5324 -2.2627,-1.5972 1.1979,-3.8599 3.4606,-0.7986 -2.662,-2.3958 1.1979,-1.4641 4.6585,0 -0.2662,5.0578 z",
 			      "active": true,
-			      "fill": "#88898c",
-			      "hoveredfill": "#E84142",
+			      "fill": "#d17024",
+			      "hoveredfill": "#3B729F",
 			      "inactivefill": "#FF0000",
 			      "strokefill": "#333",
 			      "strokewidth": 1,
@@ -4366,7 +4366,7 @@ i._.arrows&&("startString"in i._.arrows&&_(i,i._.arrows.startString),"endString"
 			      },
 			      "url": {
 			        "openinnew": true,
-			        "text": "zz_chapters/no_chapter_yet.html"
+			        "text": "zz_chapters/guatemala.html"
 			      },
 			      "label": {
 			        "text": "GT",
