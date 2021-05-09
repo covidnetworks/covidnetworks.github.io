@@ -58,7 +58,8 @@ var simplemaps_usmap_mapdata={
         name: "Alaska",
         hide: "no",
         inactive: "no",
-        hover_color: "#3B729F"
+        hover_color: "#3B729F",
+        url: "test_url.com"
       },
       FL: {
         name: "Florida",
