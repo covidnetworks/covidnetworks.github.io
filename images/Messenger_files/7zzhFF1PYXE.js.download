@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["HOQ6U"]); }
-
-__d("MWLikeSvgIcon.bs",["requireCond","cr:1828791"],(function(a,b,c,d,e,f){"use strict";a=b("cr:1828791").make;f.$MDSLikeSvgIcon$OR$FBLikeSvgIcon$requireCond=b("cr:1828791");f.make=a}),null);

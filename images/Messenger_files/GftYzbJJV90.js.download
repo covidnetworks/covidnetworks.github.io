@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["wmBMU"]); }
-
-__d("Qe2JsExposureFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f){"use strict";a=b("getFalcoLogPolicy_DO_NOT_USE")("1837559");c=b("FalcoLoggerInternal").create("qe2_js_exposure",a);e.exports=c}),null);

@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["GVqPP"]); }
-
-__d("ProfilePhotosViewFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f){"use strict";a=b("getFalcoLogPolicy_DO_NOT_USE")("1845191");c=b("FalcoLoggerInternal").create("profile_photos_view",a);e.exports=c}),null);
