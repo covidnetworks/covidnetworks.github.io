@@ -2574,5 +2574,7 @@ ul.tabs-nav .tab-nav.active {
     text-align: center;
 }
 
-
+.pdf {
+    width: 700px; margin-left: auto; margin-right: auto;
+}
 
