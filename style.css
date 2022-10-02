@@ -786,6 +786,13 @@ ul.tabs-nav .tab-nav.active {
     padding: 96px 0;
     background: url("images/our-mission-bg.jpg") no-repeat center;
     background-size: cover;
+    z-index: 99;}
+
+.horizon {
+    position: relative;
+    padding: 96px 0;
+    background: url("horizon_hub/food.png") no-repeat center;
+    background-size: cover;
     z-index: 99;
 }
 
